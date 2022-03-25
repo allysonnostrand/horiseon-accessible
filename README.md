@@ -28,5 +28,5 @@ Re-organized to follow semantic structure.
 
 # Screenshots 
 
-<img src="\images\Horiseon-accessible sc 1.png">
-<img src= "\images\Horiseon-accessible sc 2.png">
+<img src="./assets/images/Horiseon-accessible-sc-1.png">
+<img src= "./assets/images/Horiseon-accessible-sc-2.png">
